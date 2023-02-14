@@ -1,4 +1,4 @@
 # 259_Project
 
-# Game Concept: Undecided
+# Game Concept: ~Puzzle
 # Coding Language: Undecided
